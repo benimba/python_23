@@ -1,4 +1,4 @@
-geheimzahl = 15
+geheimzahl = 100
 eingabe = 0
 zaehler = 0
 
