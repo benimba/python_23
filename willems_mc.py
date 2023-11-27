@@ -1,4 +1,4 @@
-geheimzahl = 100
+geheimzahl = 444
 eingabe = 0
 zaehler = 0
 
