@@ -1,6 +1,7 @@
 geheimzahl = 444
 eingabe = 0
 zaehler = 0
+hallo = 1
 
 while eingabe != geheimzahl:
 	eingabe = int(input("Bitte eine Ganzzahl eingeben: "))
